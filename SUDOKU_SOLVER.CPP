@@ -539,7 +539,7 @@ while(t)
             break;
         case 2:
             {
-                system("summa");
+                system("Grid_Solution");
                 break;
             }
         case 3:
